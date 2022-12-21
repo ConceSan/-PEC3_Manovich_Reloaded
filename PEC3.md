@@ -1,6 +1,6 @@
 ### **Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación**
 
-Para poder hablar de hibridación, tenemos que entender que son los medios, según Lev manovich para él forman parte de la siguiente formula :
+Para poder hablar de hibridación, tenemos que entender que son los medios, según Lev manovich para él forman parte de la siguiente formula:
 
 **Medio = algoritmos + una estructura de datos**
 
@@ -8,10 +8,10 @@ Para poder hablar de hibridación, tenemos que entender que son los medios, seg�
 
 La hibridación según Lev Manovich va mas allá de lo que podríamos encontrar como definición de hibrido en el diccionario, supone la combinación de distintos medios que han evolucionado, combinándose entre si y dando pie a una nueva creación al alcance de todos en distintas disciplinas.
 
-Vamos analizar 2 casos de hibridación actual :
+Vamos analizar 2 casos de hibridación actual:
 
-- Los Smartwatch
-- Los dispositivos de telemedicina.
+- Smartwatch
+- Dispositivos de Telemedicina.
 
 #### **Primer caso : Smartwatch**
 
