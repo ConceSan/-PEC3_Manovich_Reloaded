@@ -21,7 +21,7 @@ Lejos quedan los relojes de arena del antiguo Egipto, en la actualidad un reloj 
 
 *Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.* Manovich, Software Takes Command.
 
-![](C:\Users\super\Downloads\pexels-karolina-grabowska-4498478.jpg)
+![](https://www.pexels.com/es-es/foto/sano-mujer-mano-internet-4498478/)
 
 Mientras aplicaciones como el navegador te muestran el mapa en  la pantalla y te geolocalizan en él, tu smartwatch calcula los pasos que das, los kilómetros que has recorrido, las calorías gastadas y la frecuencia cardiaca, todo ello a la vez desde el mismo dispositivo, incluso podrías escuchar música y en los mejores casos (o los mejores presupuestos) sin necesidad de llevar cerca de ti el teléfono, todas estas acciones forman parte de aplicaciones de medios híbridos interaccionando entre si.
 
